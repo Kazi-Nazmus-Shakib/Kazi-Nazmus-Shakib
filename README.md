@@ -30,6 +30,24 @@
 <a href="https://www.linkedin.com/in/kazinazmusshakib21/"><img height="30" src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/LinkedIn.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/nazmus_shakib115?igsh=MXg2ajI5NG81Y2MxNw=="><img height="30" src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Instagram.png"></a>&nbsp;&nbsp;
 <a href="https://g.dev/Kazi-Nazmus-Shakib"><img height="30" src= "https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/GoogleDev.png"></a>&nbsp;&nbsp;
+</p>
+
+## 🧰 Skills
+
+### Languages
+
+<p align="left">
+ <a title="C" href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+ <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/>      
+
+
+
+
+
+
+
+  
+
 
 
 
