@@ -91,7 +91,7 @@
 ## Github Contributions 📈
 <br>
 <p align='center'>
-<img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/GitHub%20Profile%203d%20Contributions">
+
 <p>
 
 ## Stats📈
