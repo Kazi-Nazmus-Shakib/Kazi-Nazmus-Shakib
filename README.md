@@ -28,9 +28,9 @@
  </p>
 
 
-## 🧰 Skills
+## Technology Stack 💻
 
-### Languages
+### Programming Languages👨‍💻
 
 <p align="left">
  <a title="C" href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
@@ -44,7 +44,6 @@
  <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a> 
 <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"width="40" height="40"/></a> 
 <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40"/></a> 
-<a href=>  width="40" height="40"/></a> 
 </p>
 
 ### Tools
@@ -67,7 +66,7 @@
 <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/CISCO%20Logo.png"  width="60" height="40"/></a>
 <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/ASUS%20Rog.png" width="50" height="40"/></a>
 
-### IDEs/Editors
+### IDEs/Editors 👨‍🔧
 <p align="left"> 
   <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/></a>
   <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
@@ -75,7 +74,6 @@
  <a href=>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/atom/atom-original.svg" width="40" height="40"/></a>
  <a href=> <img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Sublime%20Text%20Logo.png"  width="40" height="40"/></a>
- <a href=>  width="40" height="40"/></a>
 
 
 
@@ -86,11 +84,12 @@
 
 
 
-  
+
   <a href=>  width="40" height="40"/></a>
-
-
-
+  <a href=>  width="40" height="40"/></a>
+<a href=>  width="40" height="40"/></a>
+<a href=>  width="40" height="40"/></a>
+<a href=>  width="40" height="40"/></a>
 
 
 
