@@ -3,7 +3,7 @@
 <p>A dedicated student at BCIC COLLEGE with a solid foundation in C Programming, Amazon Web Service (AWS), Google Cloud Platform (GCP), GitHub, GitLab, Postman, Docker and Unity along with a growing interest in AI, Machine Learning, Cloud Computing, Web Development, Game Development and Robotics. Actively involved in Technology industry volunteer programs, Hackathons, and CSE-related Fests with plans to join additional clubs and participate in more Technology industry volunteer programs to further enhance skills and expand the professional network. Eager to take part in future Hackathons and CSE-related fests.
 </p>
 
-  <img align="center" alt="Coding" width="1000" height=400 src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Mastermind.gif">
+  <img align="center" alt="Coding" width="1000" height=350 src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Mastermind.gif">
 
 
 <br>
