@@ -89,6 +89,17 @@
     <a href=>  width="40" height="40"/></a>
 
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazi-nazmus-shakib" alt="kazi-nazmus-shakib" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kazi-nazmus-shakib&show_icons=true&title_color=0000ff&text_color=ff0000&locale=en&layout=compact" alt="kazi-nazmus-shakib" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kazi-nazmus-shakib&show_icons=true&title_color=ff0000&text_color=ffffff&bg_color=292626&locale=en" alt="kazi-nazmus-shakib" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kazi-nazmus-shakib&" alt="kazi-nazmus-shakib" /></p>
 
 
 
