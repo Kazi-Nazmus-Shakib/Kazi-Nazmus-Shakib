@@ -79,7 +79,7 @@
 <a href=> <img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/IBM%20Logo.png" width="85" height="40"/></a>
  <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Intel%20Logo.png"  width="60" height="30"/></a>         
 <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/CISCO%20Logo.png"  width="60" height="40"/></a>
-<a href=>  width="40" height="40"/></a>
+<a href=> <img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/ASUS%20Rog.png" width="50" height="40"/></a>
 <a href=>  width="40" height="40"/></a>
 
 
