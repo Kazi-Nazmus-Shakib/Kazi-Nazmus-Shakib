@@ -47,7 +47,7 @@
 <a href=>  width="40" height="40"/></a> 
 </p>
 
-  ### Tools
+### Tools
 <p align="left"> 
 <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"width="40" height="40"/></a>
 <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/></a>
@@ -67,7 +67,14 @@
 <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/CISCO%20Logo.png"  width="60" height="40"/></a>
 <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/ASUS%20Rog.png" width="50" height="40"/></a>
 
-
+### IDEs/Editors
+<p align="left"> 
+  <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/></a>
+  <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
+<a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Visual%20Studio%20Code%20Insiders.png" width="40" height="40"/></a>
+ <a href=>  width="40" height="40"/></a>
+ <a href=>  width="40" height="40"/></a>
+ <a href=>  width="40" height="40"/></a>
 
 
 
