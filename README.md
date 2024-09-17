@@ -22,8 +22,9 @@
 - ✍️  In my free time, I play guitar, football and pursue writing as my hobbies.
 - 💬  Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!
 
-
-<p align="center">  <img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/life_balance.gif" width="400">
+<p>
+<p align="center">  <img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/life_balance.gif" width="600"> 
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kazinazmusshakib21/"><img height="30" src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/LinkedIn.png"></a>&nbsp;&nbsp;
