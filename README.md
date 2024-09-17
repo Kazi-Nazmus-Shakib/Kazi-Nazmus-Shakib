@@ -100,7 +100,9 @@
       <a href="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib#gh-dark-mode-only"><img alt="Kazi Nazmus Shakib's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kazi-Nazmus-Shakib&show_icons=true&theme=dark#gh-dark-mode-only"></a>
    
 
-
+## GitHub Profile Trophy 🏆
+<p align="center">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazi-nazmus-shakib" alt="kazi-nazmus-shakib" /></a> </p>
 
 
 
