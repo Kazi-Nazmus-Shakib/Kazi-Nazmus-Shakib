@@ -1,4 +1,4 @@
-# Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
+<h1 align="left"> Hi, welcome to my GitHub!</h1>
 
 <p>A dedicated student at BCIC COLLEGE with a solid foundation in C Programming, Amazon Web Service (AWS), Google Cloud Platform (GCP), GitHub, GitLab, Postman, Docker and Unity along with a growing interest in AI, Machine Learning, Cloud Computing, Web Development, Game Development and Robotics. Actively involved in Technology industry volunteer programs, Hackathons, and CSE-related Fests with plans to join additional clubs and participate in more Technology industry volunteer programs to further enhance skills and expand the professional network. Eager to take part in future Hackathons and CSE-related fests.
 </p>
@@ -9,7 +9,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kazi-Nazmus-Shakib&label=Profile%20views&color=0e75b6&style=flat" alt="Kazi-Nazmus_shakib" /> </p>
 
-##  About me <img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Logo%201.gif" width="100">
+##  <h2 align="left">About me <img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Logo%201.gif" width="100"></h2>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kazi-Nazmus-Shakib](https://github.com/Kazi-Nazmus-Shakib)
 
@@ -25,7 +25,7 @@
 <p>
 <p align="center">  <img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/life_balance.gif" width="600"> 
 </p>
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/kazinazmusshakib21/"><img height="30" src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/LinkedIn.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/nazmus_shakib115?igsh=MXg2ajI5NG81Y2MxNw=="><img height="30" src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Instagram.png"></a>&nbsp;&nbsp;
