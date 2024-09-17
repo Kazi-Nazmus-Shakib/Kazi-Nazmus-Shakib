@@ -72,7 +72,8 @@
   <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/></a>
   <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
 <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Visual%20Studio%20Code%20Insiders.png" width="40" height="40"/></a>
- <a href=>  width="40" height="40"/></a>
+ <a href=>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/atom/atom-original.svg" width="40" height="40"/></a>
  <a href=>  width="40" height="40"/></a>
  <a href=>  width="40" height="40"/></a>
 
