@@ -77,7 +77,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" width="40" height="40"/></a>
     <a href=>  <img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Nvidia%20Logo.png" width="83" height="40"/></a>
 <a href=> <img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/IBM%20Logo.png" width="85" height="40"/></a>
- <a href=>  width="40" height="40"/></a>         
+ <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Intel%20Logo.png"  width="60" height="30"/></a>         
 <a href=>  width="40" height="40"/></a>
 <a href=>  width="40" height="40"/></a>
 <a href=>  width="40" height="40"/></a>
