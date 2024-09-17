@@ -38,7 +38,53 @@
 
 <p align="left">
  <a title="C" href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
- <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/>      
+ <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/></a>      
+ <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /></a>
+ <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"  width="40" height="40"/></a>
+</p>
+
+### ☁️ Cloud
+<p align="left">           
+ <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a> 
+<a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"width="40" height="40"/></a> 
+<a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40"/></a> 
+<a href=>  width="40" height="40"/></a> 
+</p>
+
+  ### Tools
+<p align="left"> 
+<a href=>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"width="40" height="40"/></a>
+<a href=> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/></a>
+<a href=>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"width="40" height="40"/></a>
+<a href=>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"width="40" height="40"/></a>
+ <a href=> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"width="40" height="40"/></a> 
+<a href=> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" height="40"/></a>
+<a href=> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" width="40" height="40"/></a>
+  <a href=>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"  width="40" height="40"/></a>
+ <a href=> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" width="40" height="40"/></a>
+ <a href=> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="40" height="40"/></a>
+   <a href=>  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" width="40" height="40"/></a>
+    <a href=>  width="40" height="40"/></a>
+<a href=>  width="40" height="40"/></a>
+ <a href=>  width="40" height="40"/></a>         
+<a href=>  width="40" height="40"/></a>
+<a href=>  width="40" height="40"/></a>
+<a href=>  width="40" height="40"/></a>
+
+
+
+
 
 
 
@@ -47,6 +93,11 @@
 
 
   
+  <a href=>  width="40" height="40"/></a>
+
+
+
+
 
 
 
