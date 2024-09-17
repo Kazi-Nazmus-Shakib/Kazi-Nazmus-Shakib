@@ -78,15 +78,29 @@
 ### Version Control 🔧
 <p align="left"> 
  <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  width="40" height="40"/></a>
- <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"width="40" height="40"/></a>
+ <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/GitHub%20Logo.png"width="40" height="40"/></a>
  <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="40" height="40"/></a>
 
+### Operating Systems 🐧
+ <p align="left"> 
+   <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Windows%20Logo.png" width="40" height="40"/></a>
+    <a href=> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="40" height="50"/></a>
+    <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Linux%20Logo.png"  width="40" height="40"/></a>
+    <a href=>  width="40" height="40"/></a>
 
 
 
 
 
 
+
+
+
+
+
+
+ 
   <a href=>  width="40" height="40"/></a>
   <a href=>  width="40" height="40"/></a>
 
