@@ -88,18 +88,14 @@
     <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Linux%20Logo.png"  width="40" height="45"/></a>
     <a href=>  width="40" height="40"/></a>
 
+## Stats📈
+<p align="center">
+ <a href="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib#gh-light-mode-only"><img alt="Kazi Nazmus Shakib's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kazi-Nazmus-Shakib&show_icons=true&theme=light#gh-light-mode-only"></a> 
+      <a href="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib#gh-dark-mode-only"><img alt="Kazi Nazmus Shakib's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kazi-Nazmus-Shakib&show_icons=true&theme=dark#gh-dark-mode-only"></a>
+   
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazi-nazmus-shakib" alt="kazi-nazmus-shakib" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kazi-nazmus-shakib&show_icons=true&title_color=0000ff&text_color=ff0000&locale=en&layout=compact" alt="kazi-nazmus-shakib" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kazi-nazmus-shakib&show_icons=true&title_color=ff0000&text_color=ffffff&bg_color=292626&locale=en" alt="kazi-nazmus-shakib" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kazi-nazmus-shakib&" alt="kazi-nazmus-shakib" /></p>
 
 
 
