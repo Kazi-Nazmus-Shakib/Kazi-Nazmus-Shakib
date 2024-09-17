@@ -7,7 +7,7 @@
 
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kazi-Nazmus-Shakib&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kazi-Nazmus-Shakib&label=Profile%20views&color=0e75b6&style=flat" alt="Kazi-Nazmus_shakib" /> </p>
 
 ##  About me <img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Logo%201.gif" width="100">
 
@@ -23,7 +23,7 @@
 - 💬  Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!
 
 
-
+<p align="center">  <img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/life_balance.gif" width="400">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kazinazmusshakib21/"><img height="30" src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/LinkedIn.png"></a>&nbsp;&nbsp;
