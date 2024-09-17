@@ -91,13 +91,13 @@
 ## Github Contributions 📈
 <br>
 <p align='center'>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kazi-Nazmus-Shakib&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=00FFFF&currStreakLabel=00FFFF&stroke=808080&fire=00FFFF&background=202020" alt="GitHub Streak" /></a> </p>
 
-<p>
 
 ## Github Stats 📊
 <p align="center">
  <a href="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib#gh-light-mode-only"><img alt="Kazi Nazmus Shakib's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kazi-Nazmus-Shakib&show_icons=true&theme=light#gh-light-mode-only"></a> 
-      <a href="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib#gh-dark-mode-only"><img alt="Kazi Nazmus Shakib's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kazi-Nazmus-Shakib&show_icons=true&theme=dark#gh-dark-mode-only"></a>
+      <a href="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib#gh-dark-mode-only"><img alt="Kazi Nazmus Shakib's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kazi-Nazmus-Shakib&show_icons=true&theme=dark#gh-dark-mode-only"></a> </p>
    
 
 ## GitHub Profile Trophy 🏆
