@@ -57,7 +57,7 @@
 <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"width="40" height="40"/></a>
 <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"width="40" height="40"/></a> 
 <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" height="40"/></a>
-<a href=><img src="" width="40" height="40"/></a>
+
 <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"  width="40" height="40"/></a>
 <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" width="40" height="40"/></a>
 <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="40" height="40"/></a>
