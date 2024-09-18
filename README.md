@@ -96,8 +96,8 @@
 
 ## Github Stats 📊
 <p align="center">
- <a href="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib#gh-light-mode-only"><img alt="Kazi Nazmus Shakib's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kazi-Nazmus-Shakib&show_icons=true&theme=light#gh-light-mode-only"></a> 
-      <a href="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib#gh-dark-mode-only"><img alt="Kazi Nazmus Shakib's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kazi-Nazmus-Shakib&show_icons=true&theme=dark#gh-dark-mode-only"></a> </p>
+ <a href="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib"><img alt="Kazi Nazmus Shakib's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kazi-Nazmus-Shakib&show_icons=true&theme=github_dark"></a> 
+      
    
 
 ## GitHub Profile Trophy 🏆
