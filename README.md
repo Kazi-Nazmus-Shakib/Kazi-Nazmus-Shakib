@@ -39,14 +39,14 @@
  <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"  width="40" height="40"/></a>
 </p>
 
-### ☁️ Cloud Computing Platforms
+### Cloud Computing Platforms ☁️ 
 <p align="left">           
  <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/AWS%20Logo.png" width="40" height="40"/></a> 
 <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Google%20Cloud%20Logo.png "width="40" height="40"/></a> 
 <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40"/></a> 
 </p>
 
-### Tools
+### Tools 🛠 ⛏
 <p align="left"> 
 <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"width="40" height="40"/></a>
 <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/></a>
@@ -100,17 +100,15 @@
       
 ## Most Used Languages 📚
 <p align="center">
- <p align="left">
  <a href="https://github.com/Kazi-Nazmus-Shakib/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kazi-Nazmus-Shakib&layout=compact&show_icons=true&theme=github_dark&rank_icon=github" /> </a></p>
 <p align='center'>
-<h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
+<h6> Note :It's not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
 </p>
 
-## GitHub Profile Trophy 🏆
+## GitHub Profile Trophies 🏆
 <p align="center">
-<p align="left"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazi-nazmus-shakib&theme=algolia&column=3&margin-w=15&margin-h=15" alt="kazi-nazmus-shakib" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazi-nazmus-shakib&theme=algolia" alt="kazi-nazmus-shakib" /></a> </p>
 
 
 
@@ -141,7 +139,7 @@
 
 
 
-
+&column=3&margin-w=15&margin-h=15
 <a href=>  width="40" height="40"/></a>
 <a href=>  width="40" height="40"/></a>
 
