@@ -96,7 +96,7 @@
 
 ## Github Stats 📊
 <p align="center">
- <a href="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib"><img alt="Kazi Nazmus Shakib's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kazi-Nazmus-Shakib&show_icons=true&theme=github_dark"></a> 
+ <a href="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib"><img alt="Kazi Nazmus Shakib's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kazi-Nazmus-Shakib&show_icons=true&theme=github_dark&rank_icon=github"></a> 
       
    
 
