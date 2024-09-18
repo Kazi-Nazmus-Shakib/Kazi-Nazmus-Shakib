@@ -102,7 +102,7 @@
 
 ## GitHub Profile Trophy 🏆
 <p align="center">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazi-nazmus-shakib" alt="kazi-nazmus-shakib" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazi-nazmus-shakib&theme=algolia&column=3&margin-w=15&margin-h=15" alt="kazi-nazmus-shakib" /></a> </p>
 
 
 
