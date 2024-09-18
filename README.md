@@ -110,7 +110,8 @@
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazi-nazmus-shakib&theme=algolia" alt="kazi-nazmus-shakib" /></a> </p>
 
-
+<p align="center">
+<img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/ROG%20Walpaper%201.gif" /> </a></p>
 
 
 
@@ -137,11 +138,6 @@
 
 
 
-
-
-&column=3&margin-w=15&margin-h=15
-<a href=>  width="40" height="40"/></a>
-<a href=>  width="40" height="40"/></a>
 
 
 
