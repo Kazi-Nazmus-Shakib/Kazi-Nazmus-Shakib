@@ -25,9 +25,9 @@
 </h2>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/kazinazmusshakib21/"><img height="30" src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/LinkedIn.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/nazmus_shakib115?igsh=MXg2ajI5NG81Y2MxNw=="><img height="30" src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Instagram.png"></a>&nbsp;&nbsp;
-<a href="https://g.dev/Kazi-Nazmus-Shakib"><img height="30" src= "https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/GoogleDev.png"></a>&nbsp;&nbsp; 
+<a href="https://www.linkedin.com/in/kazinazmusshakib21/"><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/LinkedIn.png"  ></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/nazmus_shakib115?igsh=MXg2ajI5NG81Y2MxNw=="><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Instagram.png" ></a>&nbsp;&nbsp;
+<a href="https://g.dev/Kazi-Nazmus-Shakib"><img  src= "https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/GoogleDev.png"></a>&nbsp;&nbsp; 
 </p>
 
 
