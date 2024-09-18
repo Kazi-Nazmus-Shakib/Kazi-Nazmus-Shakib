@@ -25,9 +25,9 @@
 </h2>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/kazinazmusshakib21/"><img src=""  ></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/nazmus_shakib115?igsh=MXg2ajI5NG81Y2MxNw=="><img src="" ></a>&nbsp;&nbsp;
-<a href="https://g.dev/Kazi-Nazmus-Shakib"><img  src= ""></a>&nbsp;&nbsp; 
+<a href="https://www.linkedin.com/in/kazinazmusshakib21/"><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/LinkedIn%20Logo.png" width="40" height="40" ></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/nazmus_shakib115?igsh=MXg2ajI5NG81Y2MxNw=="><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Instagram%20Logo.png" width="40" height="40" ></a>&nbsp;&nbsp;
+<a href="https://g.dev/Kazi-Nazmus-Shakib"><img  src= "https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Google%20Developers%20Logo%201.png" width="180" height="60"></a>&nbsp;&nbsp; 
 </p>
 
 
@@ -36,10 +36,9 @@
 ### Programming Languages👨‍💻
 
 <p align="left">
- <a title="C" href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
  <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/></a>      
  <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /></a>
- <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"  width="40" height="40"/></a>
+ <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Bash%20Logo.png"  width="40" height="40"/></a>
 </p>
 
 ### Cloud Computing Platforms ☁️ 
