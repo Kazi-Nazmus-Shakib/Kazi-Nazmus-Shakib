@@ -57,7 +57,6 @@
 <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"width="40" height="40"/></a>
 <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"width="40" height="40"/></a> 
 <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" height="40"/></a>
-
 <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"  width="40" height="40"/></a>
 <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" width="40" height="40"/></a>
 <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="40" height="40"/></a>
@@ -65,7 +64,7 @@
 <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/IBM%20Logo.png" width="40" height="40"/></a>
 <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Intel%20Logo.png"  width="40" height="40"/></a>         
 <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/CISCO%20Logo.png"  width="40" height="40"/></a>
-<a href=><img src="" width="40" height="40"/></a>
+<a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Red%20Hat%20Logo.png" width="40" height="40"/></a>
 <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/ASUS%20ROG%20Logo.png" width="50" height="40"/></a>
 <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Nvidia%20Logo.png"  width="90" height="45"/></a>
 </p>
