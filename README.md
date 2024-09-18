@@ -98,11 +98,14 @@
 <p align="center">
  <a href="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib"><img alt="Kazi Nazmus Shakib's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kazi-Nazmus-Shakib&show_icons=true&theme=github_dark&rank_icon=github"></a> </p>
       
-## Most Used Languages
+## Most Used Languages 📚
 <p align="center">
  <p align="left">
  <a href="https://github.com/Kazi-Nazmus-Shakib/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kazi-Nazmus-Shakib&layout=compact&show_icons=true&theme=github_dark&rank_icon=github" /> </a> </p>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kazi-Nazmus-Shakib&layout=compact&show_icons=true&theme=github_dark&rank_icon=github" /> </a></p>
+<p align='center'>
+<h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
+</p>
 
 ## GitHub Profile Trophy 🏆
 <p align="center">
@@ -120,8 +123,7 @@
 
 
  
-  <a href=>  width="40" height="40"/></a>
-  <a href=>  width="40" height="40"/></a>
+  
 
 
 
