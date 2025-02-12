@@ -108,12 +108,12 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kazi-Nazmus-Shakib&layout=compact&show_icons=true&theme=github_dark&rank_icon=github" /> </a>
 </p>
 <p align='center'>
-<h6> Note :It's not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
+<h6> Note: It does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
 </p>
 
 ## GitHub Profile Trophies 🏆
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazi-nazmus-shakib&theme=algolia" alt="kazi-nazmus-shakib" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kazi-Nazmus-Shakib&theme=algolia" alt="Kazi-Nazmus-Shakib" /></a>
 </p>
 
 <p align="center">
@@ -122,7 +122,7 @@
 
 
 
-
+[![roadmap.sh](https://roadmap.sh/card/wide/66ed088ae80161c4cb9fce3b?variant=dark)](https://roadmap.sh)
 
 
 
