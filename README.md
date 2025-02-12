@@ -11,11 +11,11 @@
  </h2>
 
 - 👨🏻‍💻 Love programming and gaming
-- 💬 Ask me about **C & Cloud DevOps**✈
+- 💬 Ask me about **C & Cloud DevOps**
 
 
 - 🌱  I'm on track to learn more about Artificial Intelligence, Machine Learning, Cloud Computing, Game Development and Robotics.
-- ✍️  In my free time, I listen to music, watch football matches and Sci-Fi movies🍿🎬, ✈️ Traveling is one of my favorite hobbies.
+- ✍️  In my free time, I listen to music, watch football matches and Sci-Fi movies🍿🎬, ✈️ Traveling is one of my favourite hobbies.
 - 🐾 I’m looking to network and make friends here!
 - 💬  Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!
 <p>
