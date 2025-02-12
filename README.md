@@ -92,7 +92,6 @@
     <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Linux%20Logo.png"  width="40" height="45"/></a>
  </p>
 
-<summary><b>⚙️ GitHub Analytics</b></summary>
 
 ## GitHub Analytics ⚙️
 <a href="https://github.com/Kazi-Nazmus-Shakib">
