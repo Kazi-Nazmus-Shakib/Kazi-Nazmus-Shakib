@@ -94,8 +94,7 @@
 
 
 ## GitHub Analytics ⚙️
-<a href="https://github.com/Kazi-Nazmus-Shakib">
-   <img height="155em" src="https://raw.githubusercontent.com/Kazi-Nazmus-Shakib/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Kazi Nazmu Shakib github stats" />/a>
+<a href="https://git.io/Kazi-Nazmus-Shakib"><img src="https://raw.githubusercontent.com/Kazi-Nazmus-Shakib/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Kazi Nazmus Shakib github stats" />/a>
 </p>
    
    
