@@ -14,8 +14,8 @@
 - 💬 Ask me about **C & Cloud DevOps**
 
 
-- 🌱  I'm on track for learning more about Artificial Intelligence, Machine Learning, Cloud Computing, Game Development and Robotics.
-- ✍️  In my free time, I listen to music, watching football match and reading Sci-Fi books🍿🎬,✈️ Traveling is one of my favorite hobbies.
+- 🌱  I'm on track to learn more about Artificial Intelligence, Machine Learning, Cloud Computing, Game Development and Robotics.
+- ✍️  In my free time, I listen to music, watch football matches and Sci-Fi movies🍿🎬, ✈️ Traveling is one of my favorite hobbies.
 - 🐾 I’m looking to network and make friends here!
 - 💬  Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!
 <p>
