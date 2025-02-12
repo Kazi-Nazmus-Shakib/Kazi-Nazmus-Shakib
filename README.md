@@ -91,6 +91,14 @@
     <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" width="40" height="40"/></a>
     <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Linux%20Logo.png"  width="40" height="45"/></a>
  </p>
+
+<summary><b>⚙️ GitHub Analytics</b></summary>
+
+## GitHub Analytics ⚙️
+<a href="https://github.com/Kazi-Nazmus-Shakib">
+   <img height="155em" src="https://raw.githubusercontent.com/Kazi-Nazmus-Shakib/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />/a>
+</p>
+   
    
 ## Github Contributions 📈
 <p align='center'>
