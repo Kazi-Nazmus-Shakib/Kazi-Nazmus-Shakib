@@ -11,7 +11,7 @@
  </h2>
 
 - 👨🏻‍💻 Love programming and gaming
-- 💬 Ask me about **C & Cloud DevOps**
+- 💬 Ask me about **C & Cloud DevOps**✈
 
 
 - 🌱  I'm on track to learn more about Artificial Intelligence, Machine Learning, Cloud Computing, Game Development and Robotics.
