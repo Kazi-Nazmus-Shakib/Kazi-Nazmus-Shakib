@@ -15,7 +15,7 @@
 
 
 - 🌱  I'm on track for learning more about Artificial Intelligence, Machine Learning, Cloud Computing, Game Development and Robotics.
-- ✍️  In my free time, I listen to music, watching football match and reading Sci-Fi books,✈️ Traveling is one of my favorite hobbies.
+- ✍️  In my free time, I listen to music, watching football match and reading Sci-Fi books🍿🎬,✈️ Traveling is one of my favorite hobbies.
 - 🐾 I’m looking to network and make friends here!
 - 💬  Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!
 <p>
