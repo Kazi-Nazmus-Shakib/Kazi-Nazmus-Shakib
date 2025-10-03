@@ -118,6 +118,10 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kazi-Nazmus-Shakib&theme=algolia" alt="Kazi-Nazmus-Shakib" /></a>
 </p>
 
+
+[![An image of @kazinazmusshakib's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kazinazmusshakib)](https://holopin.io/@kazinazmusshakib)
+
+
 <p align="center">
 <img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/ROG%20Walpaper%201.gif" /> </a>
 </p>
