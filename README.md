@@ -1,6 +1,6 @@
 <h1 align="left"> Hi, welcome to my GitHub! 🚀</h1>
 
-<p> A dedicated Computer Science and Engineering (CSE) student at East West University with a solid foundation in C Programming and Unity and a growing interest in AI, Machine Learning, Cloud Computing, Web Development, Game Development and Robotics. Actively involved in Technology industry volunteer programs, Hackathons, and CSE-related Fests with plans to join additional clubs and participate in more Technology industry volunteer programs to further enhance skills and expand the professional network. Eager to take part in future Hackathons and CSE-related fests.
+<p> A dedicated Computer Science and Engineering (CSE) student at East West University with a solid foundation in C Programming and Unity and a growing interest in AI, Machine Learning, Cloud Computing, Web Development, Game Development, Cyber Security and Robotics. Actively involved in Technology industry volunteer programs, Hackathons, and CSE-related Fests with plans to join additional clubs and participate in more Technology industry volunteer programs to further enhance skills and expand the professional network. Eager to take part in future Hackathons and CSE-related fests.
 </p>
 
 <p><img align="center" alt="Coding"src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Mastermind.gif">
@@ -13,6 +13,7 @@
 - 👨🏻‍💻 Love programming and gaming
 - 💬 Ask me about **C & Cloud DevOps**
 
+- General Member at **East West University Computer Programming Club (EWUCoPC)**
 
 - 🌱  I'm on track to learn more about Artificial Intelligence, Machine Learning, Cloud Computing, Game Development and Robotics.
 - ✍️  In my free time, I listen to music, watch football matches and Sci-Fi movies🍿🎬, ✈️ Traveling is one of my favourite hobbies.
