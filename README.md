@@ -10,7 +10,7 @@
  <h2 align="left">About me <img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Logo%201.gif" width="100">
  </h2>
 
-- 👨🏻‍💻 Love programming and gaming
+- 👨🏻‍💻 Love Programming and Gaming
 - 💬 Ask me about **C & Cloud DevOps**
 
 - General Member at **East West University Computer Programming Club (EWUCoPC)**
