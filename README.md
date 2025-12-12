@@ -16,6 +16,7 @@
    
 - Member at **GitHub Social Club - NYC**
 - Member at **Google Developer Student Club**
+- Student Member at **Hack Club**
 - Student Member at **Association for Computing Machinery (ACM)**
 
 - General Member at **East West University Computer Programming Club (EWUCoPC)**
