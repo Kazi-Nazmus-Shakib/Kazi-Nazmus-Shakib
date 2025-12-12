@@ -22,7 +22,7 @@
 - General Member at **East West University Computer Programming Club (EWUCoPC)**
 - General Member at **East West University Cyber Security Club (EWUCSC)**
 - General Member at **East West University Robotics Club (EWURC)**
-- Student Member at *IEEE Computer Society, EWU Student Branch*
+- Student Member at **IEEE Computer Society, EWU Student Branch**
 
   
 - I'm a passionate learner
