@@ -12,6 +12,7 @@
 
 - 👨🏻‍💻 Love Programming and Gaming
 - 💬 Ask me about **C & Cloud DevOps**
+- Member at **GitHub Social Club - NYC**
 
 - General Member at **East West University Computer Programming Club (EWUCoPC)**
 - General Member at **East West University Cyber Security Club (EWUCSC)**
