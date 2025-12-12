@@ -13,10 +13,13 @@
 - 👨🏻‍💻 Love Programming and Gaming
 - 💬 Ask me about **C & Cloud DevOps**
 - Member at **GitHub Social Club - NYC**
+- Student Member at **Association for Computing Machinery (ACM)**
 
 - General Member at **East West University Computer Programming Club (EWUCoPC)**
 - General Member at **East West University Cyber Security Club (EWUCSC)**
 - General Member at **East West University Robotics Club (EWURC)**
+
+  
 - 🌱  I'm on track to learn more about Artificial Intelligence, Machine Learning, Cloud Computing, Game Development and Robotics.
 - ✍️  In my free time, I listen to music, watch football matches and Sci-Fi movies🍿🎬, ✈️ Traveling is one of my favourite hobbies.
 - 🐾 I’m looking to network and make friends here!
