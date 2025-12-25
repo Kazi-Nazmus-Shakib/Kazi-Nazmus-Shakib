@@ -25,15 +25,14 @@
 - Student Member at **IEEE Computer Society, EWU Student Branch**
 
   
-- I'm a passionate learner
-who's always willing to learn and work across technologies and domains. 
+- I'm a passionate learner who's always willing to learn and work across technologies and domains. 
 - 🌱 I'm on track to learn more about Artificial Intelligence, Machine Learning, Cloud Computing, Game Development and Robotics.
-- 💡 Future Goals: To continuously learn, innovate,explore new technologies and leverage them to solve real-life problems ✨, bringing new ideas to life through technology.
+- 💡 Future Goals: To continuously learn, innovate, explore new technologies and leverage them to solve real-life problems ✨, bringing new ideas to life through technology.
 - ✍️ In my free time, I listen to music 🎵, watch football matches ⚽, Formula 1 🏎️🏁, play table tennis 🏓🏅 and Sci-Fi movies 🍿🎬, ✈️ Traveling is one of my favourite hobbies.
 - 🥸🫣 Imposter Pharmacist 🥼🥽 — trust me, I’ve walked out of worse experiments ⚗️🧪💀
 - 💼 I’m looking to collaborate on Projects and Research.
 - 🐾 I’m looking to network and make friends here!
-- 💬 Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!
+- 💬 Feel free to reach out to me for general consulting or discussions on the aforementioned topics!
 <p>
 <p align="center">  <img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/life_balance.gif" width="400"> 
 </p>
