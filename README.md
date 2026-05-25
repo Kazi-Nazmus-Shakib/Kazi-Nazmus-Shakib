@@ -53,9 +53,20 @@
 
 <p align="left">
   <a href=><img src="https://devicon-website.vercel.app/api/java/original-wordmark.svg" width="40" height="40"/></a>
+ <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/></a>
  <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /></a>
+ <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" /></a>
  <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/></a>      
  <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Bash%20Logo.png"  width="40" height="40"/></a>
+
+</p>
+
+### Frameworks
+
+<p align="left">
+<a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" height="40"/></a>
+          
+
 
 </p>
 
@@ -76,6 +87,7 @@
 <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" width="40" height="40"/></a>
 <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Red%20Hat%20Logo.png" width="40" height="40"/></a>
  <a href=><img src="https://devicon-website.vercel.app/api/spring/plain-wordmark.svg" width="40" height="40"/></a>
+ <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/twitch.svg" width="40" height="40"/></a>
 
 
 </p>
@@ -109,6 +121,8 @@
     <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Linux%20Logo.png"  width="40" height="45"/></a>
  <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="40" height="40"/></a>
  <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" width="40" height="40"/></a>
+ <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/></a>
+          
    </p>      
 
    
