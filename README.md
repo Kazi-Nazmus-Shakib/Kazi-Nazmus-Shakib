@@ -55,6 +55,7 @@
  <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/></a>      
  <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /></a>
  <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Bash%20Logo.png"  width="40" height="40"/></a>
+ <a href=><img src="https://devicon-website.vercel.app/api/java/original-wordmark.svg" width="40" height="40"/></a>
 </p>
 
 ### Cloud Computing Platforms ☁️ 
