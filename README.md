@@ -107,7 +107,9 @@
    <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Windows%20Logo.png" width="40" height="40"/></a>
     <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" width="40" height="40"/></a>
     <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Linux%20Logo.png"  width="40" height="45"/></a>
- </p>
+ <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="40" height="40"/></a>
+ <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" width="40" height="40"/></a>
+   </p>      
 
    
    
