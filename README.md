@@ -1,6 +1,6 @@
 <h1 align="left"> Hi, welcome to my GitHub! 🚀</h1>
 
-<p> 👨🏻‍🎓 I’m a freshman student pursuing a Bachelor of Science-  B.Sc [Engineering] in Computer Science and Engineering (CSE) at 🎓East West University(EWU) with a solid foundation in Java and Unity and a growing interest in Programming, AI, Machine Learning, Cloud Computing, Web Development, Game Development, Cyber Security, Open Source Contribution, Computer Vision and Robotics. Actively involved in Technology industry volunteer programs, Hackathons, and CSE-related Fests with plans to join additional clubs and participate in more Technology industry volunteer programs to further enhance skills and expand the professional network. Eager to take part in future Hackathons and CSE-related fests.
+<p> 🧑🏻‍🎓 I’m a freshman student pursuing a Bachelor of Science-  B.Sc [Engineering] in Computer Science and Engineering (CSE) at 🎓East West University(EWU) with a solid foundation in Java and Unity and a growing interest in Programming, AI, Machine Learning, Cloud Computing, Web Development, Game Development, Cyber Security, Open Source Contribution, Computer Vision and Robotics. Actively involved in Technology industry volunteer programs, Hackathons, and CSE-related Fests with plans to join additional clubs and participate in more Technology industry volunteer programs to further enhance skills and expand the professional network. Eager to take part in future Hackathons and CSE-related fests.
 </p>
 
 <p><img align="center" alt="Coding"src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Mastermind.gif">
@@ -10,7 +10,7 @@
  <h2 align="left">About me <img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Logo%201.gif" width="100">
  </h2>
 
-- 👨🏻‍💻 Love Programming and Gaming🎮🕹️
+- 🧑🏻‍💻 Love Programming and Gaming 🎮🕹️
 - 💬 Ask me about **Java & Cloud DevOps**
 
    
@@ -29,8 +29,8 @@
 - I'm a passionate learner who's always willing to learn and work across technologies and domains. 
 - 🌱 I'm on track to learn more about Artificial Intelligence, Machine Learning, Cloud Computing, Game Development and Robotics.
 - 💡 Future Goals: To continuously learn, innovate, explore new technologies and leverage them to solve real-life problems ✨, bringing new ideas to life through technology.
-- ✍️ In my free time, I listen to music 🎵, watch football matches ⚽, Formula 1 🏎️🏁, play table tennis 🏓🏅 and Sci-Fi movies 🍿🎬, ✈️ Traveling is one of my favourite hobbies.
-- 🥸🫣 Imposter Pharmacist 🥼🥽 — trust me, I’ve walked out of worse experiments ⚗️🧪💀
+- ✍️ In my free time, I listen to music 🎵, watch football matches ⚽🥅, Formula 1 🏎️🏁, play table tennis 🏓🏅 and Sci-Fi movies 🍿🎬, ✈️ Traveling is one of my favourite hobbies.
+- 🥸🫣 Imposter Pharmacist 🧑🏻‍🔬🥽 — trust me, I’ve walked out of worse experiments ⚗️🧪💀
 - 💼 I’m looking to collaborate on Projects and Research.
 - 🐾 I’m looking to network and make friends here!
 - 💬 Feel free to reach out to me for general consulting or discussions on the aforementioned topics!
