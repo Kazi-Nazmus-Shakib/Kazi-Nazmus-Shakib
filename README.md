@@ -1,6 +1,6 @@
 <h1 align="left"> Hi, welcome to my GitHub! 🚀</h1>
 
-<p> 👨🏻‍🎓 I’m a freshman student pursuing a Bachelor of Science-  B.Sc [Engineering] in Computer Science and Engineering (CSE) at 🎓East West University(EWU) with a solid foundation in C Programming and Unity and a growing interest in Programming, AI, Machine Learning, Cloud Computing, Web Development, Game Development, Cyber Security, Open Source Contribution, Computer Vision and Robotics. Actively involved in Technology industry volunteer programs, Hackathons, and CSE-related Fests with plans to join additional clubs and participate in more Technology industry volunteer programs to further enhance skills and expand the professional network. Eager to take part in future Hackathons and CSE-related fests.
+<p> 👨🏻‍🎓 I’m a freshman student pursuing a Bachelor of Science-  B.Sc [Engineering] in Computer Science and Engineering (CSE) at 🎓East West University(EWU) with a solid foundation in Java and Unity and a growing interest in Programming, AI, Machine Learning, Cloud Computing, Web Development, Game Development, Cyber Security, Open Source Contribution, Computer Vision and Robotics. Actively involved in Technology industry volunteer programs, Hackathons, and CSE-related Fests with plans to join additional clubs and participate in more Technology industry volunteer programs to further enhance skills and expand the professional network. Eager to take part in future Hackathons and CSE-related fests.
 </p>
 
 <p><img align="center" alt="Coding"src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Mastermind.gif">
@@ -60,13 +60,7 @@
 ### Cloud Computing Platforms ☁️ 
 <p align="left">           
  <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/AWS%20Logo.png" width="40" height="40"/></a> 
-
-
- <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-          
- <a href=><img
-src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Google%20Cloud%20Logo.png "width="40" height="40"/></a> 
-<a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40"/></a> 
+ 
 </p>
 
 ### Tools 🛠 ⛏
@@ -86,8 +80,9 @@ src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/G
 <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Intel%20Logo.png"  width="40" height="40"/></a>         
 <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/CISCO%20Logo.png"  width="40" height="40"/></a>
 <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Red%20Hat%20Logo.png" width="40" height="40"/></a>
-<a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/ASUS%20ROG%20Logo.png" width="50" height="40"/></a>
-<a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Nvidia%20Logo.png"  width="90" height="45"/></a>
+ <a href=><img src="https://devicon-website.vercel.app/api/spring/plain-wordmark.svg" width="40" height="40"/></a>
+
+
 </p>
 
 ### IDEs/Editors 👨‍🔧
@@ -95,8 +90,9 @@ src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/G
   <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/></a>
   <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
 <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Visual%20Studio%20Code%20Insiders.png" width="40" height="40"/></a>
- <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Atom%20Logo.png" width="40" height="42"/></a>
- <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Sublime%20Text%20Logo.png"  width="40" height="40"/></a>
+
+
+
 </p>
 
 ### Version Controls 🔧
