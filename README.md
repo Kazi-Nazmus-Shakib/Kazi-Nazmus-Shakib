@@ -52,34 +52,28 @@
 ### Programming Languages👨‍💻
 
 <p align="left">
- <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/></a>      
+  <a href=><img src="https://devicon-website.vercel.app/api/java/original-wordmark.svg" width="40" height="40"/></a>
  <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /></a>
+ <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/></a>      
  <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Bash%20Logo.png"  width="40" height="40"/></a>
- <a href=><img src="https://devicon-website.vercel.app/api/java/original-wordmark.svg" width="40" height="40"/></a>
+
 </p>
 
-### Cloud Computing Platforms ☁️ 
+### DevOps/Cloud Computing Platforms ☁️ 
 <p align="left">           
- <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/AWS%20Logo.png" width="40" height="40"/></a> 
- 
+ <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/AWS%20Logo.png" width="40" height="50"/></a> 
+ <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/></a>
+ <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original-wordmark.svg" width="40" height="40"/></a>
 </p>
 
 ### Tools 🛠 ⛏
 <p align="left"> 
 <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"width="40" height="40"/></a>
-<a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/></a>
 <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"width="40" height="40"/></a>
-<a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original-wordmark.svg" width="40" height="40"/></a>
 <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"width="40" height="40"/></a>
-<a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"width="40" height="40"/></a> 
-<a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" height="40"/></a>
 <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"  width="40" height="40"/></a>
-<a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" width="40" height="40"/></a>
 <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="40" height="40"/></a>
 <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" width="40" height="40"/></a>
-<a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/IBM%20Logo.png" width="40" height="40"/></a>
-<a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Intel%20Logo.png"  width="40" height="40"/></a>         
-<a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/CISCO%20Logo.png"  width="40" height="40"/></a>
 <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Red%20Hat%20Logo.png" width="40" height="40"/></a>
  <a href=><img src="https://devicon-website.vercel.app/api/spring/plain-wordmark.svg" width="40" height="40"/></a>
 
@@ -88,9 +82,14 @@
 
 ### IDEs/Editors 👨‍🔧
 <p align="left"> 
-  <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/></a>
-  <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
-<a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Visual%20Studio%20Code%20Insiders.png" width="40" height="40"/></a>
+ <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40" height="40"/></a>
+ <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="40" height="40" /></a>
+ <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" width="40" height="40" /></a>
+ <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
+ <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/></a>
+
+
+          
 
 
 
