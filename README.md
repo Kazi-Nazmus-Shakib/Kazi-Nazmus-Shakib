@@ -11,7 +11,7 @@
  </h2>
 
 - 👨🏻‍💻 Love Programming and Gaming🎮🕹️
-- 💬 Ask me about **C & Cloud DevOps**
+- 💬 Ask me about **Java & Cloud DevOps**
 
    
 - Member at **GitHub Social Club - NYC**
@@ -60,7 +60,10 @@
 ### Cloud Computing Platforms ☁️ 
 <p align="left">           
  <a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/AWS%20Logo.png" width="40" height="40"/></a> 
-<a href=><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Google%20Cloud%20Logo.png "width="40" height="40"/></a> 
+<a href=><img
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+           src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Google%20Cloud%20Logo.png "width="40" height="40"/></a> 
 <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40"/></a> 
 </p>
 
