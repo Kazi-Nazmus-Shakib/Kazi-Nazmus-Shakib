@@ -14,6 +14,7 @@
 - 💬 Ask me about **Java & Cloud DevOps**
 
    
+- Campus Lead at **Cursor**
 - Member at **GitHub Social Club - NYC**
 - Student Member at **Google Developer Student Club**
 - Student Member at **AWS Cloud Club**
