@@ -1,4 +1,4 @@
-<h1 align="left"> Hi, welcome to my GitHub! 🚀</h1>
+<h1 align="left"> Hola, welcome to my GitHub! 🚀</h1>
 
 <p> 🧑🏻‍🎓 I’m a freshman student pursuing a Bachelor of Science-  B.Sc [Engineering] in Computer Science and Engineering (CSE) at 🎓East West University(EWU) with a solid foundation in Java and Unity and a growing interest in Programming, AI, Machine Learning, Cloud Computing, Web Development, Game Development, Cyber Security, Open Source Contribution, Computer Vision and Robotics. Actively involved in Technology industry volunteer programs, Hackathons, and CSE-related Fests with plans to join additional clubs and participate in more Technology industry volunteer programs to further enhance skills and expand the professional network. Eager to take part in future Hackathons and CSE-related fests.
 </p>
