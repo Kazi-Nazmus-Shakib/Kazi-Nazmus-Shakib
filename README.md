@@ -47,8 +47,8 @@
 <a href="https://www.instagram.com/nazmus_shakib115?igsh=MXg2ajI5NG81Y2MxNw=="><img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Instagram%20Logo.png" width="40" height="40" ></a>&nbsp;&nbsp;
 <a href="https://g.dev/Kazi-Nazmus-Shakib"><img  src= "https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/Google%20Developers%20Logo%201.png" width="180" height="60"></a>&nbsp;&nbsp; 
 
- <p align="right">  <img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/life_balance.gif" width="200" height="400"></a>
-</p>
+ <p align="right">  <img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/life_balance.gif" width="200" height="600"></a>
+
 </p>
 
 
