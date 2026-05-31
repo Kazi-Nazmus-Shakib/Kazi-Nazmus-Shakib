@@ -25,7 +25,25 @@
 - General Member at **East West University Robotics Club (EWURC)**
 - Student Member at **IEEE Computer Society, EWU Student Branch**
 
-  
+
+
+<h2 align="left">Honours and Acheivements🏆🏅</h2>
+- Open Source Contributor  at @Hacktoberfest'25,'24
+- Open Source Contributor  at @Google Summer of Code'25,'24
+- Campus Lead at **Cursor**
+- Student Expert at **Postman API**
+- Student Developer at **Nvidia 6G Developer Program**
+- Member at **GitHub Social Club - NYC**
+- Student Member at **Google Developer Student Club**
+- Student Member at **AWS Cloud Club**
+
+
+
+
+
+
+
+
 
  <h2 align="left">About me <img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Logo%201.gif" width="100">
  </h2>
@@ -39,7 +57,7 @@
 - 🌊📚 I'm a passionate learner who's always willing to learn and work across technologies and domains. 
 - 🌱 I'm on track to learn more about Artificial Intelligence, Machine Learning, Cloud Computing, Game Development and Robotics.
 - 💡 Future Goals: To continuously learn, innovate, explore new technologies and leverage them to solve real-life problems ✨, bringing new ideas to life through technology.
-- ✍️ In my free time, I listen to music 🎵, watch football matches ⚽🥅, Formula 1 🏎️🏁, play table tennis 🏓🏅 and Sci-Fi movies 🍿🎬, ✈️ Traveling is one of my favourite hobbies.
+- ✍️ In my free time, I listen to music 🎵🎧, watch football matches ⚽🥅, Formula 1 🏎️🏁, play table tennis 🏓🏅 and Sci-Fi movies 🍿🎬, ✈️ Traveling is one of my favourite hobbies.
 - 🥸🫣 Imposter Pharmacist 🧑🏻‍🔬🥽 — trust me, I’ve walked out of worse experiments ⚗️🧪💀
 - 💼 I’m looking to collaborate on Projects and Research.
 - 🐾 I’m looking to network and make friends here!
