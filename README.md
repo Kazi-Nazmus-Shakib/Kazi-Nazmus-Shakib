@@ -38,9 +38,11 @@
   
 - East West University (EWU) Science unit admission test Summer-2025
   <br>(Ranked in the top **30**, got selected for **EWU CSE**)
+- East West University Intra-University Programming Contest Summer-2025 (Freshman Catagory)
+- East West University National RoboFest 2025 (CTF)
 - Student Developer at **Nvidia 6G Developer Program**
 - Member at **GitHub Social Club - NYC**
-- Student Member at **Google Developer Student Club**
+
 
 
 
