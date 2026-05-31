@@ -28,13 +28,21 @@
 
 <h2 align="left">Honours and Acheivements🏆🏅</h2>
 
-- Campus Lead at **Cursor**
-- Student Expert at **Postman API**
+- Open Source Contributor  at **Hacktoberfest'25,'24**
+- Open Source Contributor  at **Google Summer of Code'26,'25**
+- Shahjalal University of Science and Technology (SUST) Science unit admission test 2023-2024
+<br>(Ranked in the top **0.38%** out of **57,273** applicants and got selected for **SUST CSE**)
+- Islamic University of Technology (IUT) Science unit admission test 2023-2024
+  <br>(Ranked **302**, got selected for **IUT CSE**)
+  
+  
+- East West University (EWU) Science unit admission test Summer-2025
+  <br>(Ranked in the top **30**, got selected for **EWU CSE**)
 - Student Developer at **Nvidia 6G Developer Program**
 - Member at **GitHub Social Club - NYC**
 - Student Member at **Google Developer Student Club**
 
-<h2 align="left">Honours and Acheivements🏆🏅<hh2>
+
 
 
 
