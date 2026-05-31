@@ -13,6 +13,7 @@
 
 - Campus Lead at **Cursor**
 - Student Expert at **Postman API**
+- Student Developer at **Nvidia 6G Developer Program**
 - Member at **GitHub Social Club - NYC**
 - Student Member at **Google Developer Student Club**
 - Student Member at **AWS Cloud Club**
