@@ -26,16 +26,17 @@
 - Student Member at **IEEE Computer Society, EWU Student Branch**
 
 
-
 <h2 align="left">Honours and Acheivements🏆🏅</h2>
-- Open Source Contributor  at @Hacktoberfest'25,'24
-- Open Source Contributor  at @Google Summer of Code'25,'24
+
 - Campus Lead at **Cursor**
 - Student Expert at **Postman API**
 - Student Developer at **Nvidia 6G Developer Program**
 - Member at **GitHub Social Club - NYC**
 - Student Member at **Google Developer Student Club**
-- Student Member at **AWS Cloud Club**
+
+<h2 align="left">Honours and Acheivements🏆🏅<hh2>
+
+
 
 
 
