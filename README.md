@@ -7,14 +7,11 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kazi-Nazmus-Shakib&label=Profile%20views&color=0e75b6&style=flat" alt="Kazi-Nazmus_shakib" /> 
 </p>
- <h2 align="left">About me <img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Logo%201.gif" width="100">
- </h2>
 
-- 🧑🏻‍💻 Love Programming and Gaming 🎮🕹️
-- 💬 Ask me about **Java & Cloud DevOps**
+<h2 align="left">Leadership & Communities</h2>
 
-   
 - Campus Lead at **Cursor**
+- Student Expert at **Postman API**
 - Member at **GitHub Social Club - NYC**
 - Student Member at **Google Developer Student Club**
 - Student Member at **AWS Cloud Club**
@@ -26,6 +23,15 @@
 - General Member at **East West University Robotics Club (EWURC)**
 - Student Member at **IEEE Computer Society, EWU Student Branch**
 
+  
+
+ <h2 align="left">About me <img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Logo%201.gif" width="100">
+ </h2>
+
+- 🧑🏻‍💻 Love Programming and Gaming 🎮🕹️
+- 💬 Ask me about **Java & Cloud DevOps**
+
+   
   
 - I'm a passionate learner who's always willing to learn and work across technologies and domains. 
 - 🌱 I'm on track to learn more about Artificial Intelligence, Machine Learning, Cloud Computing, Game Development and Robotics.
