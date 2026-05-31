@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kazi-Nazmus-Shakib&label=Profile%20views&color=0e75b6&style=flat" alt="Kazi-Nazmus_shakib" /> 
 </p>
 
-<h2 align="left">Leadership & Communities</h2>
+<h2 align="left">Leadership & Communities 👥</h2>
 
 - Campus Lead at **Cursor**
 - Student Expert at **Postman API**
@@ -61,8 +61,7 @@
 
 ## Technology Stack 💻
 
-### Programming Languages👨‍💻
-
+### Programming LaLanguages🧑🏻‍💻
 <p align="left">
  <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/></a>
  <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /></a>
