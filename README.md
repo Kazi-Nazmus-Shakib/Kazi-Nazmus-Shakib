@@ -29,20 +29,22 @@
 <h2 align="left">Honours and Acheivements🏆🏅</h2>
 
 - Open Source Contributor  at **Hacktoberfest'25,'24**
-- Open Source Contributor  at **Google Summer of Code'26,'25**
+- BUET CSE Fest 2026
+  <br>(Game Jam,CTF,IUPC)
+
+  
+  
+
+- East West University National RoboFest 2025 (CTF)
+-  East West University Intra-University Programming Contest Summer-2025 (Freshman Catagory)
+- East West University Cybersecurity Club presents Capture The Flag (CTF) -Fall 2025
+- East West University (EWU) Science unit admission test Summer-2025
+  <br>(Ranked in the top **30**, got selected for **EWU CSE**)
+
 - Shahjalal University of Science and Technology (SUST) Science unit admission test 2023-2024
 <br>(Ranked in the top **0.38%** out of **57,273** applicants and got selected for **SUST CSE**)
 - Islamic University of Technology (IUT) Science unit admission test 2023-2024
   <br>(Ranked **302**, got selected for **IUT CSE**)
-  
-  
-- East West University (EWU) Science unit admission test Summer-2025
-  <br>(Ranked in the top **30**, got selected for **EWU CSE**)
-- East West University Intra-University Programming Contest Summer-2025 (Freshman Catagory)
-- East West University National RoboFest 2025 (CTF)
-- East West University Cybersecurity Club presents Capture The Flag (CTF) -Fall 2025
-- BUET CSE Fest 2026
-  <br>(Game Jam,CTF,IUPC)
 
 
 
