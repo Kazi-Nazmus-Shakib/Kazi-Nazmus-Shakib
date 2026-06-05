@@ -20,7 +20,7 @@
   
 - Student Member at **Association for Computing Machinery (ACM)**
 
-- General Member at **East West University Computer Programming Club (EWUCoPC)**
+- Senior General Member at **East West University Computer Programming Club (EWUCoPC)**
 - General Member at **East West University Cyber Security Club (EWUCSC)**
 - General Member at **East West University Robotics Club (EWURC)**
 - Student Member at **IEEE Computer Society, EWU Student Branch**
