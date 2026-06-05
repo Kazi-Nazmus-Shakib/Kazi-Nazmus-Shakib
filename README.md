@@ -28,7 +28,7 @@
 
 <h2 align="left">Honours and Acheivements🏆🏅</h2>
 
-- Open Source Contributor  at **Hacktoberfest'25,'24**
+
 - BUET CSE Fest 2026
   <br>(Game Jam,CTF,IUPC)
 
@@ -39,7 +39,7 @@
 -  East West University Intra-University Programming Contest Summer-2025 (Freshman Catagory)
 - East West University Cybersecurity Club presents Capture The Flag (CTF) -Fall 2025
 - East West University (EWU) Science unit admission test Summer-2025
-  <br>(Ranked in the top **30**, got selected for **EWU CSE**)
+  <br>(Ranked in the top **10**, got selected for **EWU CSE**)
 
 - Shahjalal University of Science and Technology (SUST) Science unit admission test 2023-2024
 <br>(Ranked in the top **0.38%** out of **57,273** applicants and got selected for **SUST CSE**)
@@ -75,7 +75,7 @@
 - 🥸🫣 Imposter Pharmacist 🧑🏻‍🔬🥽 — trust me, I’ve walked out of worse experiments ⚗️🧪💀
 - 💼 I’m looking to collaborate on Projects and Research.
 - 🐾 I’m looking to network and make friends here!
-- 📈👔Actively engaging in industry conferences and tech meetups to expand my knowledge base and cultivate professional networks 🧑‍💼
+- 📈👔Actively engaging in industry conferences and tech meetups to expand my knowledge base and cultivate professional networks 👨🏻‍💼
 - 💬 Feel free to reach out to me for general consulting or discussions on the aforementioned topics!
 <p>
 <p align="center">  <img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/life_balance.gif" width="400"> 
