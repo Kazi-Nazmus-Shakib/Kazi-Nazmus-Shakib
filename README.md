@@ -48,7 +48,11 @@
 
 
 
+<h2 align="left">Events & Meetups </h2>
 
+- Campus Ambassador at SUST CSE Carnival 2026
+
+- Organizer at East West University National RoboFest 2026
 
 
 
