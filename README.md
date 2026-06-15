@@ -16,14 +16,14 @@
 - Student Developer at **Nvidia 6G Developer Program**
 - Member at **GitHub Social Club - NYC**
 - Student Member at **Google Developer Student Club**
-- Student Member at **AWS Cloud Club**
+- Student Member at **AWS Cloud Club BracU**
   
 - Student Member at **Association for Computing Machinery (ACM)**
 
 - Senior General Member at **East West University Computer Programming Club (EWUCoPC)**
 - General Member at **East West University Cyber Security Club (EWUCSC)**
 - General Member at **East West University Robotics Club (EWURC)**
-- Student Member at **IEEE Computer Society, EWU Student Branch**
+- Student Member at **IEEE Computer Society, IEEE EWU Student Branch**
 
 
 <h2 align="left">Honours and Acheivements🏆🏅</h2>
