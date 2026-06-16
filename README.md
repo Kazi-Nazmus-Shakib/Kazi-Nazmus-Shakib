@@ -54,6 +54,8 @@
 
 - Organizer at East West University National RoboFest 2026
 
+- Campus Ambassador at IUT 12th ICT Fest
+- Campus Ambassador at GREEN GENESIS 2026
 
 
 
