@@ -25,6 +25,7 @@
 - General Member at **East West University Robotics Club (EWURC)**
 - General Member at **East West University Esports Community (EWUESPC)**
 - Student Member at **IEEE Computer Society, IEEE EWU Student Branch**
+- Student Member at **IEEE Robotics and Automation Society, IEEE EWU Student Branch**
 
 
 <h2 align="left">Honours and Acheivements🏆🏅</h2>
