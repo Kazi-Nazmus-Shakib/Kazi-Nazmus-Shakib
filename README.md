@@ -55,7 +55,7 @@
 - Campus Ambassador at SUST CSE Carnival 2026
 
 - Organizer at East West University National RoboFest 2026
-- participant and Campus Ambassador at 1st Bangladesh Formula Student and Automotive Engineering Summit 2026 by Mist Blitz 🏎️🏁
+- Participant and Campus Ambassador at 1st Bangladesh Formula Student and Automotive Engineering Summit 2026 by Mist Blitz 🏎️🏁
 - Campus Ambassador at IUT 12th ICT Fest 2026
 - Campus Ambassador at GREEN GENESIS 2026
 
