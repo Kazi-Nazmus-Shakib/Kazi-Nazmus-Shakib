@@ -13,6 +13,7 @@
 
 - Campus Lead at **Cursor**
 - Student Expert at **Postman API**
+- Campus Star at **Privatians Bangladesh**
 - Student Developer at **Nvidia 6G Developer Program**
 - Member at **GitHub Social Club - NYC**
 - Student Member at **Google Developer Student Club**
