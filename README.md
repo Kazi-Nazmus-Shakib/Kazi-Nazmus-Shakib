@@ -12,6 +12,7 @@
 <h2 align="left">Leadership & Communities 👥</h2>
 
 - Campus Lead at **Cursor**
+- Campus Crew at **HackerRank**
 - Student Expert at **Postman API**
 - Campus Star at **Privatians Bangladesh**
 - Student Developer at **Nvidia 6G Developer Program**
