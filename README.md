@@ -18,7 +18,7 @@
 - Student Developer at **Nvidia 6G Developer Program**
 - Member at **GitHub Social Club - NYC**
 - Student Member at **Google Developer Student Club**
-- Student Member at **AWS Cloud Club BracU**
+- Student Member at **AWS Student Builder Group Brac University**
   
 - Student Member at **Association for Computing Machinery (ACM)**
 
