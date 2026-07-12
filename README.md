@@ -32,7 +32,7 @@
 
 <h2 align="left">Honours and Acheivements🏆🏅</h2>
 
-- Got 2nd place (Team name- Astro Star'S) for Space Leadership Program - NASA DAY 2026 conducted in East West University, Himalayan Space Center and Robotech Valley  
+- Got 2nd place (Team name- Astro STAR'S) for Space Leadership Program - NASA DAY 2026 conducted in East West University, Himalayan Space Center and Robotech Valley  
 - BUET CSE Fest 2026
   <br>(Game Jam,CTF,IUPC)
 
