@@ -112,7 +112,7 @@
 
 ## Technology Stack 💻
 
-### Programming LaLanguages🧑🏻‍💻
+### Programming Languages🧑🏻‍💻
 <p align="left">
  <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/></a>
  <a href=><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /></a>
