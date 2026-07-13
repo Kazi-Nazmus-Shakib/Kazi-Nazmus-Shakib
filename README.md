@@ -80,10 +80,13 @@
 - 🌐 **Open Source Contributor** — Contributing to public repositories because great things rarely happen in hiding. Let's make something unforgettable 🌃
 - 🌊📚 I'm a passionate learner who's always willing to learn and work across technologies and domains. 
 - 🌱 I'm on track to learn more about Artificial Intelligence, Machine Learning, Cloud Computing, Game Development and Robotics.
+- 🧑🏻‍🚀🚀 **Passionate about Rocket Engineering** 🌌🛰️ — Exploring aerospace engineering through hands-on experience in designing 📝, constructing 🛠️, and launching 🚀 **four model rockets**. 🚀🛰️ Experienced in rocket construction ⚙️, launch operations 🎯, engineering calculations 📐➗, rocket mathematics 🧮, trajectory 📈 and stability analysis 📊, flight dynamics 🌍, mission planning 🗺️, basic project cost estimation 💰📋 and budgeting 📑, and the fundamentals of aerospace engineering 🌌🛰️, while continuously pursuing my dream of building rockets 🚀✨🌠.
+  
+  <br> 💭 *Designing rockets is easy. Convincing them to come back in one piece... that's where the engineering begins.* 😏🚀
 - 💡 Future Goals: To continuously learn, innovate, explore new technologies and leverage them to solve real-life problems ✨, bringing new ideas to life through technology.
 - ✍️ In my free time, I listen to music 🎵🎧, watch football matches ⚽🥅, Formula 1 🏎️🏁 and Sci-Fi movies 🍿🎬,🏎️ Karting is one of my favourite hobbies.
 - 🥸🫣 Imposter Pharmacist 🧑🏻‍🔬🥽 — trust me, I’ve walked out of worse experiments ⚗️🧪💀
-- 🧑🏻‍🚀🚀 **Passionate about Rocket Engineering** 🌌🛰️ — Exploring aerospace engineering through hands-on experience in designing 📝, constructing 🛠️, and launching 🚀 **four model rockets**. 🚀🛰️ Experienced in rocket construction ⚙️, launch operations 🎯, engineering calculations 📐➗, rocket mathematics 🧮, trajectory 📈 and stability analysis 📊, flight dynamics 🌍, mission planning 🗺️, basic project cost estimation 💰📋 and budgeting 📑, and the fundamentals of aerospace engineering 🌌🛰️, while continuously pursuing my dream of building rockets 🚀✨🌠.💭 *Designing rockets is easy. Convincing them to come back in one piece... that's where the engineering begins.* 😏🚀
+
 
 - 💼 I’m looking to collaborate on Projects and Research.
 - 🐾 I’m looking to network and make friends here!
