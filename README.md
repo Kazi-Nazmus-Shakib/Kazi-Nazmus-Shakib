@@ -99,7 +99,7 @@
 - 📈👔Actively engaging in industry conferences and tech meetups to expand my knowledge base and cultivate professional networks 👨🏻‍💼
 - 💬 Feel free to reach out to me for general consulting or discussions on the aforementioned topics!
 <p>
-<p align="center">  <img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Images/life_balance.gif" width="400"> 
+<p align="center">  <img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Optimus%20Prime.jpg" width="400"> 
 </p>
 
 
