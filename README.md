@@ -15,13 +15,14 @@
 - Campus Crew at **HackerRank**
 - Student Expert at **Postman API**
 - Campus Ambassador at **PUBG Mobile Bangladesh**
-- Campus Star at **Privatians Bangladesh**
+
+
 - Student Developer at **Nvidia 6G Developer Program**
 - Member at **GitHub Social Club - NYC**
 - Student Member at **Google Developer Student Club**
-- Student Member at **AWS Student Builder Group BRAC University**
-  
+- Student Member at **AWS Student Builder Group BRAC University** 
 - Student Member at **Association for Computing Machinery (ACM)**
+
 
 - Senior General Member at **East West University Computer Programming Club (EWUCoPC)**
 - General Member at **East West University Cyber Security Club (EWUCSC)**
@@ -58,7 +59,7 @@
 - Campus Ambassador at SUST CSE Carnival 2026
 
 - Organizer at East West University National RoboFest 2026
-- Participant and Campus Ambassador at 1st Bangladesh Formula Student and Automotive Engineering Summit 2026 by Mist Blitz 🏎️🏁
+- Campus Ambassador and Participant at 1st Bangladesh Formula Student and Automotive Engineering Summit 2026 by Mist Blitz 🏎️🏁
 - Campus Ambassador at IUT 12th ICT Fest 2026
 - Campus Ambassador at GREEN GENESIS 2026
 
@@ -101,7 +102,7 @@
 <p>
 <p align="center">  <img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Optimus%20Prime.jpg" width="400"> 
 </p>
-
+<i>(Work Life Balance)</i>
 
 <h2 align="left">Connect with me:
 </h2>
