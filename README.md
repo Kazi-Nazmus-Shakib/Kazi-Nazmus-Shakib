@@ -102,7 +102,7 @@
 <p>
 <p align="center">  <img src="https://github.com/Kazi-Nazmus-Shakib/Kazi-Nazmus-Shakib/blob/main/Optimus%20Prime.jpg" width="400"> 
 </p>
-<i>(Work Life Balance)</i>
+<i> "Hang on to your dreams. The future is built on dreams." — Optimus Prime </i>
 
 <h2 align="left">Connect with me:
 </h2>
